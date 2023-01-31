@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 dsfffffffffffffffffffdfffffffadasd
 xygfhjkdls
 dfrefererererer
 dffffffffffffffffffffffffffffffff
+=======
+Line 1
+dsfdsfdsssssssssssssssssssssssss
+fffffffffffffffffffff
+>>>>>>> master
